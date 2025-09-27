@@ -1,2 +1,2 @@
-Проект являющийся клоном игры agar.io.
-Для входа в игру используется tkinter и pygame для самой игры, postgres+psycopg2 для связи с DB и sqlalchemy для работы с таблицами.
+A project that is a clone of the agar.io game.
+It uses tkinter and pygame for the game itself, postgres+psycopg2 for database connectivity, and sqlalchemy for working with tables.
